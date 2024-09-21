@@ -12,9 +12,8 @@ reading this. I know, I know ... the file is literally called README.
 
 The host directory seems to be either `/docs` or `/`
 I went with with `/docs`
-Host here: https://deadlygeek.github.io/git-pages-actions-playground/
-
-https://<username>.github.io/<repository-name>/
+Host here: https://deadlygeek.github.io/git-pages-actions-playground/ 
+You can see you host informatiopn in the page tab of settings
 
 ### Syncing up my local version of v-code with this version.
 

@@ -19,4 +19,5 @@ Some notes to myself on these steps;
 
 ### Syncing up my local version of v-code with this version.
 
-All of this code was written online in code spaces.
+All of this code was written online in code spaces. To sync my local machine settings and the settings
+I see in codespace was I needed to login correct

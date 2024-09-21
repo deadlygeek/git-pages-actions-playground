@@ -6,7 +6,16 @@ reading this. I know, I know ... the file is literally called README.
 ## Steps
 
 ### Getting a hosted page up us git pages
-- [ ] create a directory that contains a static website
-- [ ] host this directory
+
+- [x] create a directory that contains a static website
+- [x] host this directory
+
+The host directory seems to be either `/docs` or `/`
+I went with with `/docs`
+Host here: https://deadlygeek.github.io/git-pages-actions-playground/
+
+https://<username>.github.io/<repository-name>/
 
 ### Syncing up my local version of v-code with this version.
+
+All of this code was written online in code spaces.

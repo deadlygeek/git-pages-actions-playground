@@ -10,10 +10,12 @@ reading this. I know, I know ... the file is literally called README.
 - [x] create a directory that contains a static website
 - [x] host this directory
 
-The host directory seems to be either `/docs` or `/`
-I went with with `/docs`
-Host here: https://deadlygeek.github.io/git-pages-actions-playground/ 
-You can see you host informatiopn in the page tab of settings
+Some notes to myself on these steps;
+
+- The host directory seems to be either `/docs` or `/`
+- I went with with `/docs`
+- Host here: https://deadlygeek.github.io/git-pages-actions-playground/ 
+- You can see you host informatiopn in the page tab of settings
 
 ### Syncing up my local version of v-code with this version.
 

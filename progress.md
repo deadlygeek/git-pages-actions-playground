@@ -45,3 +45,7 @@ updated in the source
 - should be as lightweight as possible. needs node and the cowsay app
 
 ### Triggering a script in the .devcontainer when a new library is pushed.
+Created a scripted locally that runs node package and generates a message. That message is copied into the docs folder
+but this stuff isn't being saved. Because you can only really save stuff on github by checking them in. I wonder
+if I should have a message branch. This is where I update the message and that triggers the script to run that
+updated the website. Then the changes to the website are checked into main. Does that make sense?

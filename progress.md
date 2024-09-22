@@ -33,7 +33,7 @@ it with details about what container you want.
 ### Defining what this project will do
 
 The final output will be a simple static website. It will have a ascii text image of a cow saying something. This
-will use the cowsay npm pack. What the cow is to say will be defined in another json object. When any file is
+will use the cowsay npm package. What the cow is to say will be defined in another json object. When any file is
 updated in the source
 
  - a node program will run inside the dev container
@@ -41,4 +41,7 @@ updated in the source
  - cowsay will run with that value
  - the output will be placed into the static index.html page
 
-### Modifing the .devcontainer
+### Setting up the .devcontainer
+- should be as lightweight as possible. needs node and the cowsay app
+
+### Triggering a script in the .devcontainer when a new library is pushed.

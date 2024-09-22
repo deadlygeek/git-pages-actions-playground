@@ -1,0 +1,4 @@
+{
+    "name": "Node.js git pages experiment",
+    "image": "node:20-alpine"
+}

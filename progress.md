@@ -29,3 +29,16 @@ here [are the detail](https://github.com/devcontainers/images/tree/main/src/univ
 
 If you want to use other dev containers you need to create the .devcontainer folder with the json file inside
 it with details about what container you want.
+
+### Defining what this project will do
+
+The final output will be a simple static website. It will have a ascii text image of a cow saying something. This
+will use the cowsay npm pack. What the cow is to say will be defined in another json object. When any file is
+updated in the source
+
+ - a node program will run inside the dev container
+ - it will read the json that defines what the cow should saw
+ - cowsay will run with that value
+ - the output will be placed into the static index.html page
+
+### Modifing the .devcontainer

@@ -1,6 +1,9 @@
- ______________
-< Mooo is cow! >
- --------------
+Need to install the following packages:
+cowsay@1.6.0
+Ok to proceed? (y) 
+ ________________
+< From the cloud >
+ ----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
